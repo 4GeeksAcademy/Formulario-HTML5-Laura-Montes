@@ -1,0 +1,16 @@
+.display {
+    display: flex;
+}
+
+h2 {
+    padding: 1%;
+}
+
+.notes {
+    color: grey;
+}
+
+.buttons {
+    padding: 1%;
+    float: right;
+}
